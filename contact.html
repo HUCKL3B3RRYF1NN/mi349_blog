@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="screen.css">
   </head>
   <body>
+    <header>
     <h1>Contact Page</h1>
     <nav>
       <ul>
@@ -16,6 +17,28 @@
         <li><a href="contact.html" class="active">Contact</a></li>
       </ul>
     </nav>
+    </header>
+    <section>
+      <form>
+        <label> Name:
+          <input type="text">
+        </label>
+        <label> E-Mail Address:
+          <input type="email">
+        </label>
+        <label for="reason-select">Reason for Contact:</label>
+        <select name="reasons" id="reason-select">
+          <option value="">--Unselected--</option>
+          <option value="hi">Saying hi</option>
+          <option value="contractor">Looking for a Contractor</option>
+          <option value="interview">Interested in an interview</option>
+        </select>
+        <label> Other Comments:
+          <input type="text">
+        </label>
+        <button>Submit</button>
+      </form>
+    </section>
     <script src="index.js"></script>
   </body>
 </html>

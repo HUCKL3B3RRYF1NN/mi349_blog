@@ -20,12 +20,10 @@
     </header>
     <section>
       <form>
-        <label> Name:
-          <input type="text">
-        </label>
-        <label> E-Mail Address:
-          <input type="email">
-        </label>
+        <p><label for="subscriber-name">Name:</label><br />
+        <input type="text" name="subscriber-name"></p>
+        <p><label for="subscriber-email">E-Mail Address:</label><br />
+        <input type="email" name=""subscriber-email></p>
         <label for="reason-select">Reason for Contact:</label>
         <select name="reasons" id="reason-select">
           <option value="">--Unselected--</option>
@@ -33,9 +31,8 @@
           <option value="contractor">Looking for a Contractor</option>
           <option value="interview">Interested in an Interview</option>
         </select>
-        <label> Other Comments:
-          <textarea></textarea>
-        </label>
+        <p><label for="comments">Other Comments:</label><br />
+        <textarea name="comments"></textarea></p>
         <p><input type="submit"></p>
       </form>
     </section>

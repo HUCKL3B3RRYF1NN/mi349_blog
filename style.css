@@ -1,4 +1,16 @@
-/* Add screen styles below */
 a.active {
-    font-weight: bold;
+    text-decoration: underline;
+}
+
+body {
+    color: #454545;
+}
+
+header {
+    color: #F2F2F2;
+    font-size: 32em;
+}
+
+h2 {
+    font-size: 81em;
 }

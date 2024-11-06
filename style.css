@@ -31,14 +31,14 @@ h1 {
     font-size: 32px;
     margin-right: 381px;
     font-weight: normal;
+    padding-top: 18px;
+    padding-left: 18px;
 }
 
 h2 {
     font-size: 81px;
     text-align: center;
     font-weight: normal;
-    padding-top: 18px;
-    padding-left: 18px;
 }
 
 h3 {

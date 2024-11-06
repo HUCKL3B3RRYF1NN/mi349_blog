@@ -4,6 +4,7 @@ a.active {
 
 body {
     color: #454545;
+    font-family: Helvetica, sans-serif;
 }
 
 header {
@@ -14,4 +15,8 @@ header {
 
 h2 {
     font-size: 81px;
+}
+
+h3 {
+    font-size: 24px;
 }

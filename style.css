@@ -4,31 +4,20 @@ body {
     margin: 0;
 }
 
-header {
-    position: sticky;
-    display: flex;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #454545;
-    color: #F2F2F2;
-    font-size: 32px;
-    padding-top: 18px;
-    padding-left: 18px;
-    padding-bottom: 18px;
-    padding-right: 18px;
-}
-
 .nav {
+    position: sticky;
+    top: 0;
     overflow: hidden;
+    background-color: #454545;
 }
 
 .nav a {
     color: #F2F2F2;
     float: right;
-    text-align: center;
     text-decoration: none;
-    font-size: 32px
+    font-size: 32px;
+    text-align: center;
+    padding: 18px 160px;
 }
 
 .nav a.active {

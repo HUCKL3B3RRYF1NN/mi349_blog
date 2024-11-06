@@ -16,8 +16,17 @@ header {
     font-size: 32px;
 }
 
-li {
+nav a {
+    float: left;
     color: #F2F2F2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 32px
+}
+
+nav a.active {
+    text-decoration: underline;
 }
 
 h2 {

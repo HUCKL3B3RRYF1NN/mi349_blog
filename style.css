@@ -8,6 +8,7 @@ body {
 }
 
 header {
+    margin-top: 0;
     background-color: #454545;
     color: #F2F2F2;
     font-size: 32px;

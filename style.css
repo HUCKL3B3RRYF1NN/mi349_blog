@@ -5,6 +5,7 @@ body {
 }
 
 header {
+    color: #F2F2F2;
     position: sticky;
     top: 0;
 }
@@ -15,7 +16,6 @@ header {
 }
 
 .nav a {
-    color: #F2F2F2;
     float: right;
     text-decoration: none;
     font-size: 32px;

@@ -8,7 +8,6 @@ header {
     color: #F2F2F2;
     position: sticky;
     top: 0;
-    display: flex;
 }
 
 .nav {
@@ -30,12 +29,13 @@ header {
     text-decoration: underline;
 }
 
+.nav-left {
+    float: left;
+}
+
 h1 {
     font-size: 32px;
-    margin-right: 381px;
     font-weight: normal;
-    padding-top: 18px;
-    padding-left: 18px;
 }
 
 h2 {

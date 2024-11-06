@@ -63,3 +63,7 @@ img {
     max-height: 50%;
     float: right;
 }
+
+p {
+    line-height: 2;
+}

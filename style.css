@@ -33,6 +33,10 @@ header {
     text-decoration: underline;
 }
 
+h1 {
+    font-size: 32px;
+}
+
 h2 {
     font-size: 81px;
     text-align: center;

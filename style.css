@@ -17,6 +17,9 @@ header {
     background-color: #454545;
     color: #F2F2F2;
     font-size: 32px;
+    padding-top:18px;
+    padding-left: 18px;
+    padding-bottom: 18px;
 }
 
 .nav {
@@ -39,9 +42,6 @@ header {
 
 h1 {
     font-size: 32px;
-    padding-top:18px;
-    padding-left: 18px;
-    padding-bottom: 18px;
 }
 
 h2 {

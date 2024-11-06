@@ -16,6 +16,10 @@ header {
     font-size: 32px;
 }
 
+nav {
+    overflow: hidden;
+}
+
 nav a {
     float: left;
     color: #F2F2F2;

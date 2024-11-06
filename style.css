@@ -48,3 +48,7 @@ h2 {
 h3 {
     font-size: 24px;
 }
+
+hr {
+    border: 5px #454545;
+}

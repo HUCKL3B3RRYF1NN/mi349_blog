@@ -16,12 +16,12 @@ header {
     font-size: 32px;
 }
 
-nav {
+.nav {
     overflow: hidden;
 }
 
-nav a {
-    float: left;
+.nav a {
+    float: right;
     color: #F2F2F2;
     text-align: center;
     padding: 14px 16px;
@@ -29,7 +29,7 @@ nav a {
     font-size: 32px
 }
 
-nav a.active {
+.nav a.active {
     text-decoration: underline;
 }
 

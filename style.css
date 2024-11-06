@@ -57,3 +57,7 @@ hr {
 .blog-post {
     margin: auto 300px;
 }
+
+img {
+    float: right;
+}

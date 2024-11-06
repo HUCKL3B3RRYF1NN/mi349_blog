@@ -14,11 +14,11 @@ header {
     background-color: #454545;
     color: #F2F2F2;
     font-size: 32px;
-    display: inline;
 }
 
 .nav {
     overflow: hidden;
+    display: inline;
 }
 
 .nav a {

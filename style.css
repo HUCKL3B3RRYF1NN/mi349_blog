@@ -4,9 +4,12 @@ body {
     margin: 0;
 }
 
-.nav {
+header {
     position: sticky;
     top: 0;
+}
+
+.nav {
     overflow: hidden;
     background-color: #454545;
 }
@@ -17,7 +20,7 @@ body {
     text-decoration: none;
     font-size: 32px;
     text-align: center;
-    padding: 18px 120px;
+    padding: 18px 130px;
 }
 
 .nav a.active {
@@ -34,6 +37,8 @@ h2 {
     font-size: 81px;
     text-align: center;
     font-weight: normal;
+    padding-top: 18px;
+    padding-left: 18px;
 }
 
 h3 {

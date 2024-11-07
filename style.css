@@ -85,4 +85,5 @@ p {
 form {
     display: flex;
     margin: auto 300px;
+    padding-top: 80px;
 }

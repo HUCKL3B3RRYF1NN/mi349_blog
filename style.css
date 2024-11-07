@@ -20,7 +20,7 @@ header {
     color: #F2F2F2;
     float: right;
     text-decoration: none;
-    font-size: 32em;
+    font-size: 12em;
     text-align: center;
     padding: 18px 130px;
 }
@@ -34,13 +34,13 @@ header {
 }
 
 h1 {
-    font-size: 32em;
+    font-size: 12em;
     font-weight: normal;
     padding-left: 18px;
 }
 
 h2 {
-    font-size: 81em;
+    font-size: 16em;
     text-align: center;
     font-weight: normal;
 }

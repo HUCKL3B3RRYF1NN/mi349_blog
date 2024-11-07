@@ -43,7 +43,6 @@ h2 {
     font-size: 81px;
     text-align: center;
     font-weight: normal;
-    padding-top: 80px;
 }
 
 h3 {
@@ -53,7 +52,10 @@ h3 {
 hr {
     border: 3px solid #454545;
     margin: auto 300px;
-    padding-top: 80px;
+}
+
+.author-date {
+    display: flex;
 }
 
 .blog-post {

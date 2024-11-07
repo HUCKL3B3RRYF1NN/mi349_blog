@@ -97,8 +97,9 @@ p {
     margin-top: 60px;
 }
 
-input {
+input, select, textarea {
     background-color: #D9D9D9;
+    border-color: #D9D9D9;
 }
 
 #contact-submit {

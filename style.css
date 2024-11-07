@@ -56,7 +56,7 @@ hr {
 }
 
 .author-date {
-    display: flex;
+    display: inline-flex;
 }
 
 .blog-post {

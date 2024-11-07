@@ -56,12 +56,13 @@ hr {
 
 .blog-post {
     margin: auto 300px;
+    display: flex;
 }
 
 img {
     max-width: 45%;
-    float: right;
     vertical-align: top;
+    
 }
 
 p {

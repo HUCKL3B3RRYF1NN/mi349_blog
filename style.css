@@ -62,6 +62,9 @@ hr {
 
 .blog-post {
     margin: auto 300px;
+}
+
+.image-text {
     display: flex;
 }
 

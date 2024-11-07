@@ -90,6 +90,7 @@ p {
     padding-right: 10%;
     gap: 10%;
     width: 100%;
+    flex: 1;
 }
 
 .form-bottom {

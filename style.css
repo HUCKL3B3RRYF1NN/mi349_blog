@@ -82,7 +82,13 @@ p {
     max-width: 55%;
 }
 
-.form-input {
+.form-top {
+    display: flex;
+    margin: auto 300px;
+    margin-top: 60px;
+}
+
+.form-bottom {
     display: flex;
     margin: auto 300px;
     margin-top: 60px;

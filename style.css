@@ -55,6 +55,10 @@ hr {
     margin: auto 300px;
 }
 
+.author-date {
+    display: flex;
+}
+
 .blog-post {
     margin: auto 300px;
 }

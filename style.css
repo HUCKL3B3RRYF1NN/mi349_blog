@@ -62,12 +62,12 @@ hr {
 
 .blog-post {
     margin: auto 300px;
+    display: flex;
 }
 
 img {
     max-width: 45%;
     vertical-align: top;
-    float: right;
 }
 
 p {

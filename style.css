@@ -66,6 +66,7 @@ hr {
 
 .image-text {
     display: flex;
+    justify-content: center;
 }
 
 img {

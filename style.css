@@ -88,8 +88,7 @@ p {
     margin-top: 60px;
     padding-left: 10%;
     padding-right: 10%;
-    width: 100%;
-    flex: 1;
+    flex-grow: 1;
 }
 
 .form-bottom {

@@ -81,3 +81,8 @@ p {
     margin-right: 10px;
     max-width: 55%;
 }
+
+form {
+    display: flex;
+    margin: auto 300px;
+}

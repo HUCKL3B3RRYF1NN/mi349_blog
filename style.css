@@ -71,6 +71,7 @@ hr {
 img {
     max-width: 50%;
     vertical-align: top;
+    vertical-align: bottom;
 }
 
 p {
@@ -80,6 +81,10 @@ p {
 .blog-post p{
     margin-right: 10px;
     max-width: 55%;
+}
+
+.blog-post img {
+
 }
 
 form {

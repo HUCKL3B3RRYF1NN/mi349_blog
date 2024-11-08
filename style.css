@@ -77,13 +77,12 @@ p {
 }
 
 .blog-post p{
-    margin-right: 10px;
     max-width: 55%;
 }
 
 .blog-post img {
     margin-right: 16%;
-    margin-left: 45%;
+    margin-left: 55%;
 }
 
 form {

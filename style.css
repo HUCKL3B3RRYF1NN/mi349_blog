@@ -65,13 +65,11 @@ hr {
 
 .image-text {
     display: flex;
-    justify-content: center;
 }
 
 img {
     max-width: 50%;
     vertical-align: top;
-    vertical-align: bottom;
 }
 
 p {

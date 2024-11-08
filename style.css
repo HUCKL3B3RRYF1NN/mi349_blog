@@ -82,6 +82,10 @@ p {
     max-width: 55%;
 }
 
+form {
+    margin: auto 16%;
+}
+
 .form-top {
     display: flex;
     margin: 0;

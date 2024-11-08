@@ -67,10 +67,7 @@ hr {
 .image-text {
     display: flex;
     justify-content: space-between;
-}
-
-.image-text img {
-    justify-content: flex-end;
+    gap: 50%;
 }
 
 img {

@@ -82,7 +82,8 @@ p {
 }
 
 .blog-post img {
-    margin-left: auto;
+    margin-left: 100%;
+    margin-right: 16%;
 }
 
 form {

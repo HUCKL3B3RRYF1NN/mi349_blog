@@ -2,7 +2,6 @@ body {
     color: #454545;
     font-family: Helvetica, sans-serif;
     margin: 0 auto;
-    width: 68%;
 }
 
 header {
@@ -64,6 +63,7 @@ hr {
 .blog-post {
     margin: 0;
     justify-content: center;
+    width: 68%;
 }
 
 .image-text {

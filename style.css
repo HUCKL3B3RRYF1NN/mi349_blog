@@ -33,6 +33,10 @@ header {
     float: left;
 }
 
+#blog {
+    margin: auto 16%;
+}
+
 h1 {
     font-size: 32px;
     font-weight: normal;
@@ -52,16 +56,11 @@ h3 {
 
 hr {
     border: 3px solid #454545;
-    margin: auto 16%;
 }
 
 .author-date {
     display: inline-flex;
     justify-content: space-between;
-}
-
-.blog-post {
-    margin: auto 16%;
 }
 
 .image-text {

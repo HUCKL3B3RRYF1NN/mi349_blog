@@ -70,7 +70,7 @@ hr {
 }
 
 .image-text img {
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 img {

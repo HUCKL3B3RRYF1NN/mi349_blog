@@ -62,12 +62,12 @@ hr {
 
 .blog-post {
     margin: 0;
-    justify-content: center;
     width: 68%;
 }
 
 .image-text {
     display: flex;
+    justify-content: center;
 }
 
 img {

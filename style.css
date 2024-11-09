@@ -72,8 +72,10 @@ hr {
 }
 
 img {
-    max-width: 50%;
     vertical-align: top;
+    object-fit: cover;
+    height: 50%;
+    width: auto;
 }
 
 p {

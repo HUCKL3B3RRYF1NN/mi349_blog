@@ -67,6 +67,10 @@ hr {
     display: flex;
 }
 
+.about-me {
+    margin-top: 60px;
+}
+
 img {
     max-width: 50%;
     vertical-align: top;

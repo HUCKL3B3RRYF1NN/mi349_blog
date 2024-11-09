@@ -68,8 +68,8 @@ hr {
 
 .about-image {
     float: right;
-    text-align: center;
-    margin: 0 0 15px 20px;
+    text-align: right;
+    margin-right: 5%;
     max-width: 50%;
 }
 

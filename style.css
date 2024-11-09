@@ -98,12 +98,8 @@ form {
 }
 
 input[type=text], input[type=email], select, textarea{
-    width: 30%;
+    width: 200px;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-}
-
-select {
-    width: 33.25%;
 }

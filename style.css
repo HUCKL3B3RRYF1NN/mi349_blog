@@ -58,12 +58,17 @@ hr {
     border: 3px solid #454545;
 }
 
-.image-text, .about-me {
+.image-text {
     display: flex;
 }
 
 .about-me {
     margin-top: 60px;
+}
+
+.about-image {
+    float: right;
+    text-align: center;
 }
 
 img {

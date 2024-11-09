@@ -98,7 +98,7 @@ form {
 }
 
 input[type=text], input[type=email], select, textarea{
-    width: 200px;
+    width: 400px;
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;

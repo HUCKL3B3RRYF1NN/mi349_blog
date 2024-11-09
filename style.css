@@ -81,17 +81,13 @@ p {
     font-size: 18px;
 }
 
-.blog-post p{
+.blog-post p, .about-me p {
     max-width: 55%;
 }
 
 .blog-post img {
     margin-right: 16%;
     margin-left: 50%;
-}
-
-.about-me p {
-    max-width: 55%;
 }
 
 .about-me img {

@@ -89,6 +89,15 @@ form {
     margin-top: 60px;
 }
 
+.about-me p {
+    max-width: 55%;
+}
+
+.about-me img {
+    margin-right: 16%;
+    margin-left: 50%;
+}
+
 .form-top {
     display: flex;
     margin: 0;

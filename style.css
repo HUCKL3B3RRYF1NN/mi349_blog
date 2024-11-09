@@ -93,7 +93,7 @@ p {
     margin-left: 50%;
 }
 
-input[type=text], input[type=email], select {
+input[type=text], input[type=email], select, textarea{
     width: 30%;
     padding: 12px 20px;
     margin: 8px 0;

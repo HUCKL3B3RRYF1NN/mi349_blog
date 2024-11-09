@@ -97,11 +97,6 @@ form {
     margin-top: 60px;
 }
 
-.contact-form {
-    display: flex;
-    flex-wrap: wrap;
-}
-
 input[type=text], input[type=email], select, textarea{
     width: 400px;
     padding: 12px 20px;

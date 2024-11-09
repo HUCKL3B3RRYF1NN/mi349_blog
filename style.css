@@ -93,12 +93,6 @@ p {
     margin-left: 50%;
 }
 
-.contact-form {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
-
 input[type=text], input[type=email], select {
     width: 30%;
     padding: 12px 20px;

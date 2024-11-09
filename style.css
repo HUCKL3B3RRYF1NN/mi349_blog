@@ -63,7 +63,7 @@ hr {
     justify-content: space-between;
 }
 
-.image-text {
+.image-text, .about-me {
     display: flex;
 }
 

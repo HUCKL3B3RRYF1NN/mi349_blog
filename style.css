@@ -33,7 +33,7 @@ header {
     float: left;
 }
 
-#blog {
+main {
     margin: auto 16%;
 }
 
@@ -86,7 +86,6 @@ p {
 }
 
 form {
-    margin: auto 16%;
     margin-top: 60px;
 }
 
